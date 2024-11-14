@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  header {
+    background-color: #005b96;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+  }
+  header nav a {
+    color: white;
+    margin: 0 1em;
+    text-decoration: none;
+  }
+  header nav a:hover {
+    text-decoration: underline;
+  }
+  main {
+    padding: 2em;
+  }
+  section {
+    margin-bottom: 2em;
+  }
+  section h2 {
+    margin-bottom: 1em;
+    color: #005b96;
+  }
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 2em;
+  }
+  
